@@ -17,4 +17,4 @@ function jogar() {
         }
     }
 }
-console.log("Eu amo a julia!")
+console.log("Eu amo a julia")
