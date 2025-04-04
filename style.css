@@ -29,7 +29,7 @@ body {
 /* Content div for text and button */
 .content {
   text-align: center;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.485);
   padding: 20px 40px;
   border-radius: 8px;
 }
@@ -44,7 +44,7 @@ button {
   border: none;
   padding: 10px 20px;
   font-size: 1.2em;
-  color: white;
+  color: rgb(46, 21, 98);
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
