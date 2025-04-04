@@ -17,4 +17,5 @@ function jogar() {
         }
     }
 }
+//comentário sobre a afirmação abaixo ser real!!!
 console.log("Eu amo a julia")
