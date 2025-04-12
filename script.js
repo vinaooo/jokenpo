@@ -3,7 +3,7 @@ function jogar() {
 
     if (idade < 18) {
         alert("Você não pode jogar");
-    } else {
+    } else { //asda
         const escolhas = ["Pedra", "Papel", "Tesoura"];
         const escolhaJogador = Number(prompt("Escolha 1 - Pedra, 2 - Papel ou 3 - Tesoura?"));
         const escolhaComputador = Math.floor(Math.random() * 3) + 1;
